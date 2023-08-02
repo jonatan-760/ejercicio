@@ -1,0 +1,50 @@
+html{
+   
+margin-top: 100PX;   
+ padding: 0px;
+
+}
+
+
+#invitacion{
+    font-size: 20PX;
+    padding-left: 0px;
+    background-color: #F0EDE2;
+    width: 500px;
+    height: 650PX;
+    border: 1px solid #000000;
+}
+.imagen{
+    width: 350px;
+display: block;
+margin-top: 45PX;
+}
+
+h1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    margin: 0px;
+    margin-bottom: 20px;
+    font-family: 'Creepster', cursive;
+    background-color: black;
+    color: rgb(255, 183, 0);
+
+}
+
+*{
+    margin: auto;
+}
+
+h2{
+    
+    padding-left: 30px;
+    font-family: 'Creepster', cursive;
+    color: black;
+
+
+}
+
+p{
+    padding-left: 30px;
+}
